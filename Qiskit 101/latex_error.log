@@ -1,0 +1,16 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.7)
+entering extended mode
+! I can't find file `C:/Users/THISPC'.
+<to be read again> 
+                   \protect 
+<*> C:/Users/THISPC~
+                    1/AppData/Local/Temp/tmpmjtd81b8/circuit.tex
+Please type another input file name: 
+! Emergency stop.
+<to be read again> 
+                   \protect 
+<*> C:/Users/THISPC~
+                    1/AppData/Local/Temp/tmpmjtd81b8/circuit.tex
+!  ==> Fatal error occurred, no output PDF file produced!
+Transcript written on C:\Users\THISPC~1\AppData\Local\Temp\tmpmjtd81b8\texput.l
+og.
